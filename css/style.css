@@ -1,0 +1,31 @@
+body {
+    background-color: #000;
+}
+#container {
+    margin-left:15px;
+}
+
+#start{
+    width: 120px;
+    height: 40px;
+}
+
+#roll-dice{
+    width: 120px;
+    height: 40px;
+    display: none;
+}
+
+.title{
+    color: azure;
+    text-align: center;
+}
+
+p{
+    color: azure;
+    text-align: left;
+}
+
+#canvas{
+    margin-top: 0;
+}
